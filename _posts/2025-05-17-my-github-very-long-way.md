@@ -9,7 +9,12 @@ permalink: /my-github-very-long-way
 Man, while doing a local Jekyll was quite easy, Github was quite circonvoluted for nothing since many of the tutorials didn't correspond to what I saw in my laptop and in the Github personal space. BUT I finally did it after HOURS.
 {: style="text-align: justify;"}
 
-After many different sources, I noticed that the fork worked and the git clone command too. So I did both while creating a new depository with the website name I wanted. From there, I had the same things in my laptop and online. I used Github Actions option to get the workflow history.
+After many different sources, I noticed what worked or not. So here is what I've seen working in the end : 
+Add the Jekyll theme I want from forking it to my profile
+Adding an action workflow and select Jekyll. WAITING UNTIL THE THINGS LOADING IN ACTIONS ARE ALL GREEN BEFORE GOIGN ANYWHERE ELSE.
+Clone the Github file to my Documents through the git clone terminal command
+Copy post files if any from the Jekyll trial, adding some info in config.
+Running git add ., then git commit -m 'first commit', then git push -u origin master.
 {: style="text-align: justify;"}
 
 It wasn't peculiarly easy to understand that from there, you modify the files LOCALLY (in laptop) and then run terminal commands to get it updated on github. Fortunately, [one video I watched previously](https://www.youtube.com/watch?v=mJ-qvsxPHpY) actually explained it from the very beginning, so I ran those and it seems to work now !
