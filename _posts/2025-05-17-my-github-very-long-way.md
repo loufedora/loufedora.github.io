@@ -11,7 +11,7 @@ Man, while doing a local Jekyll was quite easy, Github was quite circonvoluted f
 
 After many different sources, I noticed what worked or not. So here is what I've seen working in the end : 
 - Add the Jekyll theme I want from forking it to my profile
-- Adding an action workflow and select Jekyll. WAITING UNTIL THE THINGS LOADING IN ACTIONS ARE ALL GREEN BEFORE GOIGN ANYWHERE ELSE.
+- Adding an action workflow and select Jekyll. WAITING UNTIL THE THINGS LOADING IN ACTIONS ARE ALL GREEN BEFORE GOING ANYWHERE ELSE.
 - Clone the Github file to my Documents through the git clone terminal command
 - Copy post files if any from the Jekyll trial, adding some info in config.
 - Running git add ., then git commit -m 'first commit', then git push -u origin master.
