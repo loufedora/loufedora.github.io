@@ -12,7 +12,7 @@ When I tried dual booting Fedora, it worked but "/boot is nearly full" then "/bo
 ![time_default](/assets/images/time_default.jpg)
 {: style="text-align: justify;"}
 <br/><br/>
-So just be careful and click the bigger disk or even plus an external disk instead !
+So just be careful and click the bigger disk, or even better, an external disk instead !
 <br/><br/>
 ![time_good](/assets/images/time_good.jpg)
 
