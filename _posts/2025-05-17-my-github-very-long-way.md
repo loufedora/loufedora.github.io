@@ -17,7 +17,7 @@ After many different sources, I noticed what worked or not. So here is what I've
 - Running git add ., then git commit -m 'first commit', then git push -u origin master.
 {: style="text-align: justify;"}
 
-It wasn't peculiarly easy to understand that from there, you modify the files LOCALLY (in laptop) and then run terminal commands to get it updated on github. Fortunately, [one video I watched previously](https://www.youtube.com/watch?v=mJ-qvsxPHpY) actually explained it from the very beginning, so I ran those and it seems to work now ! And when I have to update, I just run the 3 commands and it's good to go.
+It wasn't peculiarly easy to understand that from there, you modify the files LOCALLY (in laptop) and then run terminal commands to get it updated on github. Fortunately, [one video I watched previously](https://www.youtube.com/watch?v=mJ-qvsxPHpY) actually explained it from the very beginning, so I ran those and it seems to work now ! And when I have to update, I just run the 3 commands (with a different name for the git commit -m '') and it's good to go.
 {: style="text-align: justify;"}
 
 Also, it seems that the tool is very sensitive if you touch "about" or erase lines in config.yml or in about.md. It destroyed my sync that worked well before, so don't do that ! Just fill the blanks or leave it be.
