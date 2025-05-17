@@ -6,13 +6,13 @@ categories: jekyll update
 author: "Lou Fedora"
 permalink: /boot-already-full
 ---
-When I tried dual booting Fedora, it worked but "/boot is nearly full" then "/boot is full" appared. I wonder what was going on.
+When I tried dual booting Fedora, it worked but "/boot is nearly full" then "/boot is full" appared. I wonder what was going on. In the end, after investigating, the answer was quite easy to find : <b>Timeshift auto records the snapshot in /boot !</b>
 {: style="text-align: justify;"}
-
-In the end, after investigating, the answer was quite easy to find : <b>Timeshift auto records the snapshot in /boot !</b>
+<br/>
 ![time_default](/assets/images/time_default.jpg)
 {: style="text-align: justify;"}
 <br/><br/>
 So just be careful and click the bigger disk or even plus an external disk instead !
+<br/>
 ![time_good](/assets/images/time_good.jpg)
-{: style="text-align: justify;"}
+
