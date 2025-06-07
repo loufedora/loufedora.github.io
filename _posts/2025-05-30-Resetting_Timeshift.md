@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Resetting Timeshift correctly and backing files up"
-date:   2025-06-07 17:05:00 +0200
+date:   2025-05-30 17:05:00 +0200
 categories: jekyll update
 author: "Lou Fedora"
 permalink: /resetting-timeshift-backing-files

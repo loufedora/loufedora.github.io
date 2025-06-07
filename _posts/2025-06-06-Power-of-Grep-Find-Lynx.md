@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "The power of Grep, Find and Lynx"
-date:   2025-06-07 17:39:00 +0200
+date:   2025-06-06 17:39:00 +0200
 categories: jekyll update
 author: "Lou Fedora"
 permalink: /power-grep-find-lynx
