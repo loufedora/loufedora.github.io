@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Starting up with Vim and the Vim CLI file manager"
-date:   2025-06-07 17:39:00 +0200
+date:   2025-06-07 18:03:00 +0200
 categories: jekyll update
 author: "Lou Fedora"
 permalink: /starting-vim-vifm
