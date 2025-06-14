@@ -41,6 +41,6 @@ Ah, I had a nice combo of everything in an install when my dad asked me to insta
   
   <br/>
   
-  So yeah. **Never assume that an install resembles another**, check up if the device handles your distro (fortunately it still does, it works fine). Use lightweight distros if necessary and... **Be patient and have good mirrors haha**
+So yeah. **Never assume that an install resembles another**, check up if the device handles your distro (fortunately it still does, it works fine). Use lightweight distros if necessary and... <b/>Be patient and have good mirrors haha</b>
   
   {: style="text-align: justify;"}
