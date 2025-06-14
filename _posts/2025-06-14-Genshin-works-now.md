@@ -9,10 +9,13 @@ permalink: /bottles-installing-genshin
 ---
 
 Everyone talks about Bottles, I finally gave it a try because my dad wanted to use Photofiltre to edit his photos, since he's used to it. Setting up a bottle using the Bottles application is a breeze. However, don't try games with those.. It's better using dedicated softwares like Steam or in my case... Heroic Launcher. 
+
 {: style="text-align: justify;"}
 <br/>
 
-Little did I know that compared to Bottles, setting up a game through Heroic Launcher is a massively different process... I could do it a bit but it broke my install anytime I rebooted my laptop ! Aka, the files were downloaded, but Heroic/Proton failed to recognise them correctly. After reinstalling 4 times and getting the same results, I checked the Flathub page of Heroic Launcher and sent a desperate message into their Discord that was indicated there. Fortunately, a Chilian user named F4ngDragon answered me and was patient enough to guide me step by step through it, because it was wayyyy different than I thought. {: style="text-align: justify;"}
+Little did I know that compared to Bottles, setting up a game through Heroic Launcher is a massively different process... I could do it a bit but it broke my install anytime I rebooted my laptop ! Aka, the files were downloaded, but Heroic/Proton failed to recognise them correctly. After reinstalling 4 times and getting the same results, I checked the Flathub page of Heroic Launcher and sent a desperate message into their Discord that was indicated there. Fortunately, a Chilian user named F4ngDragon answered me and was patient enough to guide me step by step through it, because it was wayyyy different than I thought. 
+
+{: style="text-align: justify;"}
 
 <br/>
 
@@ -46,21 +49,21 @@ Little did I know that compared to Bottles, setting up a game through Heroic Lau
    
    <br/>
 
-5. Enter the general settings of Heroic Launcher and browse your files to add the Stream folder in .var as default path for Steam (/home/*username*/.var/app/com.valvesoftware.Steam/data/Steam) : ![steam-default-path](/assets/images/Steam-default-path.png)
+5. Enter the general settings of Heroic Launcher and browse your files to add the Stream folder in .var as default path for Steam (/home/*username*/.var/app/com.valvesoftware.Steam/data/Steam) : 
    
-   {: style="text-align: justify;"}
-   
-   <br/>
-
-6. Restart Heroic Launcher and edit the settings of your game to pick Proton Experimental as your Wine version : ![proton-experimental](/assets/images/Proton-Experimental.png)
-   
-   {: style="text-align: justify;"}
+   {: style="text-align: justify;"}![steam-default-path](/assets/images/Steam-default-path.png)
    
    <br/>
 
-7. If your Genshin doesn't switch from the launcher to the game, you need to add an Environment variable into your Advanced Settings to force the opening of the window called `WINEDLLOVERRIDES = lsteamclient=d` and don't forget to click on the + icon to get it saved : ![environmental-variables](/assets/images/Environmental-variable.png)
+6. Restart Heroic Launcher and edit the settings of your game to pick Proton Experimental as your Wine version : 
    
-   {: style="text-align: justify;"}
+   {: style="text-align: justify;"}![proton-experimental](/assets/images/Proton-Experimental.png)
+   
+   <br/>
+
+7. If your Genshin doesn't switch from the launcher to the game, you need to add an Environment variable into your Advanced Settings to force the opening of the window called `WINEDLLOVERRIDES = lsteamclient=d` and don't forget to click on the + icon to get it saved : 
+   
+   {: style="text-align: justify;"}![environmental-variables](/assets/images/Environmental-variable.png)
    
    <br/>
    
@@ -75,6 +78,8 @@ Little did I know that compared to Bottles, setting up a game through Heroic Lau
    <br/>
    
    So, as I always say : on the Internet, always ask questions ! Don't stay on your own because often many people have lived the same hurdles and are willing to help you. As I've seen on Fedora forum for my 4-day long song issue, and I've seen here too with someone at the other side of the planet helping me for 2-3 hours to have an optimal setting. 
+   
+   {: style="text-align: justify;"}
    
    Internet people can be amazing, it's not either technical people that speak an alien language or trolls ! Many people are willing to help with speaking at your level if you specify your level in things, are patient and sticking up until the issue is well determined. Just be careful not to launch commands you don't understand, but other than that... Don't stay alone !
    

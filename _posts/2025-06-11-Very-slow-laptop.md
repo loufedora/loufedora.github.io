@@ -25,7 +25,9 @@ Ah, I had a nice combo of everything in an install when my dad asked me to insta
   
   <br/>
 
-- **The mirrors by default for Mint are awful**. More than that, they freeze in place so at the part of the install in which it needs to install extra packages, it loads in the void. Thankfully some part is skippable, but I feared that it coul've impacted the quality of the final install... Fortunately, it didn't. {: style="text-align: justify;"}
+- **The mirrors by default for Mint are awful**. More than that, they freeze in place so at the part of the install in which it needs to install extra packages, it loads in the void. Thankfully some part is skippable, but I feared that it coul've impacted the quality of the final install... Fortunately, it didn't. 
+  
+  {: style="text-align: justify;"}
   
   When I could reach the final install on the laptop, I put some French mirrors and it updated in no time.Those are definitely very important. If someday my Fedora install has some  issues in regards to downloading packages, I'll definitaly **check up if my mirror list is correctly set up**.
   
@@ -39,6 +41,6 @@ Ah, I had a nice combo of everything in an install when my dad asked me to insta
   
   <br/>
   
-  So yeah. **Never assume that an install resembles another**, check up if the device handles your distro (fortunately it still does, it works fine). Use lightweight distros if necessary and... **Be patient and have good mirrors haha **
+  So yeah. **Never assume that an install resembles another**, check up if the device handles your distro (fortunately it still does, it works fine). Use lightweight distros if necessary and... **Be patient and have good mirrors haha**
   
   {: style="text-align: justify;"}
