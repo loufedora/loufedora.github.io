@@ -28,7 +28,7 @@ Little did I know that compared to Bottles, setting up a game through Heroic Lau
    
    <br/>
 
-2. Then, creating a Game prefix folder in my Documents to use it . It's better to do that than relying on Wine directory by default : ![](/home/louise/Documents/loufedora.github.io/assets/images/Wine-prefixes.png)
+2. Then, creating a Game prefix folder in my Documents to use it . It's better to do that than relying on Wine directory by default : ![wine-prefixes](/assets/images/Wine-prefixes.png)
    
    {: style="text-align: justify;"}
    
@@ -46,19 +46,19 @@ Little did I know that compared to Bottles, setting up a game through Heroic Lau
    
    <br/>
 
-5. Enter the general settings of Heroic Launcher and browse your files to add the Stream folder in .var as default path for Steam (/home/*username*/.var/app/com.valvesoftware.Steam/data/Steam) : ![](/home/louise/Documents/loufedora.github.io/assets/images/Steam-default-path.png)
+5. Enter the general settings of Heroic Launcher and browse your files to add the Stream folder in .var as default path for Steam (/home/*username*/.var/app/com.valvesoftware.Steam/data/Steam) : ![steam-default-path](/assets/images/Steam-default-path.png)
    
    {: style="text-align: justify;"}
    
    <br/>
 
-6. Restart Heroic Launcher and edit the settings of your game to pick Proton Experimental as your Wine version : ![](/home/louise/Documents/loufedora.github.io/assets/images/Proton-Experimental.png)
+6. Restart Heroic Launcher and edit the settings of your game to pick Proton Experimental as your Wine version : ![proton-experimental](/assets/images/Proton-Experimental.png)
    
    {: style="text-align: justify;"}
    
    <br/>
 
-7. If your Genshin doesn't switch from the launcher to the game, you need to add an Environment variable into your Advanced Settings to force the opening of the window called `WINEDLLOVERRIDES = lsteamclient=d` and don't forget to click on the + icon to get it saved : ![](/home/louise/Documents/loufedora.github.io/assets/images/Environmental-variable.png)
+7. If your Genshin doesn't switch from the launcher to the game, you need to add an Environment variable into your Advanced Settings to force the opening of the window called `WINEDLLOVERRIDES = lsteamclient=d` and don't forget to click on the + icon to get it saved : ![environmental-variables](/assets/images/Environmental-variable.png)
    
    {: style="text-align: justify;"}
    
