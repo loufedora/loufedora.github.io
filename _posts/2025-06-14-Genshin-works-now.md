@@ -1,5 +1,4 @@
 ---
-
 layout: page
 title:  "Discovering Bottles and setting up my first game on Linux (Genshin Impact)"
 date:   2025-06-14 13:06:00 +0200
@@ -13,9 +12,7 @@ Everyone talks about Bottles, I finally gave it a try because my dad wanted to u
 {: style="text-align: justify;"}
 <br/>
 
-Little did I know that compared to Bottles, setting up a game through Heroic Launcher is a massively different process... I could do it a bit but it broke my install anytime I rebooted my laptop ! Aka, the files were downloaded, but Heroic/Proton failed to recognise them correctly. After reinstalling 4 times and getting the same results, I checked the Flathub page of Heroic Launcher and sent a desperate message into their Discord that was indicated there. Fortunately, a Chilian user named F4ngDragon answered me and was patient enough to guide me step by step through it, because it was wayyyy different than I thought.
-
-{: style="text-align: justify;"}
+Little did I know that compared to Bottles, setting up a game through Heroic Launcher is a massively different process... I could do it a bit but it broke my install anytime I rebooted my laptop ! Aka, the files were downloaded, but Heroic/Proton failed to recognise them correctly. After reinstalling 4 times and getting the same results, I checked the Flathub page of Heroic Launcher and sent a desperate message into their Discord that was indicated there. Fortunately, a Chilian user named F4ngDragon answered me and was patient enough to guide me step by step through it, because it was wayyyy different than I thought. {: style="text-align: justify;"}
 
 <br/>
 
@@ -31,7 +28,7 @@ Little did I know that compared to Bottles, setting up a game through Heroic Lau
    
    <br/>
 
-2. Then, creating a Game prefix folder in my Documents to use it . It's better to do that than relying on Wine directory by default : ![](/home/louise/.config/marktext/images/2025-06-14-13-19-34-image.png)
+2. Then, creating a Game prefix folder in my Documents to use it . It's better to do that than relying on Wine directory by default : ![](/home/louise/Documents/loufedora.github.io/assets/images/Wine-prefixes.png)
    
    {: style="text-align: justify;"}
    
@@ -49,19 +46,19 @@ Little did I know that compared to Bottles, setting up a game through Heroic Lau
    
    <br/>
 
-5. Enter the general settings of Heroic Launcher and browse your files to add the Stream folder in .var as default path for Steam (/home/*username*/.var/app/com.valvesoftware.Steam/data/Steam) : ![](/home/louise/.config/marktext/images/2025-06-14-13-26-44-image.png)
+5. Enter the general settings of Heroic Launcher and browse your files to add the Stream folder in .var as default path for Steam (/home/*username*/.var/app/com.valvesoftware.Steam/data/Steam) : ![](/home/louise/Documents/loufedora.github.io/assets/images/Steam-default-path.png)
    
    {: style="text-align: justify;"}
    
    <br/>
 
-6. Restart Heroic Launcher and edit the settings of your game to pick Proton Experimental as your Wine version : ![](/home/louise/.config/marktext/images/2025-06-14-13-28-44-image.png)
+6. Restart Heroic Launcher and edit the settings of your game to pick Proton Experimental as your Wine version : ![](/home/louise/Documents/loufedora.github.io/assets/images/Proton-Experimental.png)
    
    {: style="text-align: justify;"}
    
    <br/>
 
-7. If your Genshin doesn't switch from the launcher to the game, you need to add an Environment variable into your Advanced Settings to force the opening of the window called `WINEDLLOVERRIDES = lsteamclient=d` and don't forget to click on the + icon to get it saved : ![](/home/louise/.config/marktext/images/2025-06-14-13-32-09-image.png)
+7. If your Genshin doesn't switch from the launcher to the game, you need to add an Environment variable into your Advanced Settings to force the opening of the window called `WINEDLLOVERRIDES = lsteamclient=d` and don't forget to click on the + icon to get it saved : ![](/home/louise/Documents/loufedora.github.io/assets/images/Environmental-variable.png)
    
    {: style="text-align: justify;"}
    
