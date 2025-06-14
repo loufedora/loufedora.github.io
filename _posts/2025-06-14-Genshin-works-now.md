@@ -19,35 +19,35 @@ Little did I know that compared to Bottles, setting up a game through Heroic Lau
 
 <br/>
 
-**<u>Here is what we did to make it work : </u>**
+**<u>Here is what we did to make it work (in chronological order) : </u>**
 
 <br/>
 
-1. Make sure I'm connected to the Epic Store because everything downloads from there, especially Genshin that I wanted. And add the game to the library of Heroic.
+- Make sure I'm connected to the Epic Store because everything downloads from there, especially Genshin that I wanted. And add the game to the library of Heroic.
 {: style="text-align: justify;"}
 <br/>
 
-2. Then, creating a Game prefix folder in my Documents to use it . It's better to do that than relying on Wine directory by default : ![wine-prefixes](/assets/images/Wine-prefixes.png)
+- Then, creating a Game prefix folder in my Documents to use it . It's better to do that than relying on Wine directory by default : ![wine-prefixes](/assets/images/Wine-prefixes.png)
 {: style="text-align: justify;"}
 <br/>
 
-3. Then launch the install to have the game downloaded, accept the path that the Genshin app asks you about. It'll be saved in the directory you setted up before anyway.
+- Then launch the install to have the game downloaded, accept the path that the Genshin app asks you about. It'll be saved in the directory you setted up before anyway.
 {: style="text-align: justify;"}
 <br/>
 
-4. Then, you need to be able to launch the game using the Wine version called "Proton Experimental". To fetch it, you need to open Steam, download a game with activating overlays and then pick Proton Experimental in the list of Protons that are available.
+- Then, you need to be able to launch the game using the Wine version called "Proton Experimental". To fetch it, you need to open Steam, download a game with activating overlays and then pick Proton Experimental in the list of Protons that are available.
 {: style="text-align: justify;"}
 <br/>
 
-5. Enter the general settings of Heroic Launcher and browse your files to add the Stream folder in .var as default path for Steam (/home/*username*/.var/app/com.valvesoftware.Steam/data/Steam) : ![steam-default-path](/assets/images/Steam-default-path.png)
+- Enter the general settings of Heroic Launcher and browse your files to add the Stream folder in .var as default path for Steam (/home/*username*/.var/app/com.valvesoftware.Steam/data/Steam) : ![steam-default-path](/assets/images/Steam-default-path.png)
 {: style="text-align: justify;"}
 <br/>
 
-6. Restart Heroic Launcher and edit the settings of your game to pick Proton Experimental as your Wine version : ![proton-experimental](/assets/images/Proton-Experimental.png)
+- Restart Heroic Launcher and edit the settings of your game to pick Proton Experimental as your Wine version : ![proton-experimental](/assets/images/Proton-Experimental.png)
 {: style="text-align: justify;"}
 <br/>
 
-7. If your Genshin doesn't switch from the launcher to the game, you need to add an Environment variable into your Advanced Settings to force the opening of the window called `WINEDLLOVERRIDES = lsteamclient=d` and don't forget to click on the + icon to get it saved : ![environmental-variables](/assets/images/Environmental-variable.png)
+- If your Genshin doesn't switch from the launcher to the game, you need to add an Environment variable into your Advanced Settings to force the opening of the window called `WINEDLLOVERRIDES = lsteamclient=d` and don't forget to click on the + icon to get it saved : ![environmental-variables](/assets/images/Environmental-variable.png)
 {: style="text-align: justify;"}
 
 <br/>
