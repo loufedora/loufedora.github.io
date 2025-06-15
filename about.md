@@ -26,4 +26,14 @@ titles:
 key: page-about
 ---
 
-I'll fill that out later.
+Hello everyone !
+{: style="text-align: justify;"}
+<br/>
+I'm Lou, a French person who enjoys learning new things. In May 16h, 2025 I got fed up with Windows and started my journey into Linux, choosing first linux Mint and then Fedora. 
+{: style="text-align: justify;"}
+<br/>
+This little Jekyll blog will reference some difficulties that I overcomed during this journey, in hope it could help anyone also starting with Linux (and/or Fedora).
+{: style="text-align: justify;"}
+<br/>
+Have fun reading :)
+
