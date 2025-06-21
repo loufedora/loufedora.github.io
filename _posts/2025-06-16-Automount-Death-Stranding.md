@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Discovering Bottles and setting up my first game on Linux (Genshin Impact)"
+title:  "Automounting my drive and playing Death Stranding on my tiny laptop"
 date:   2025-06-16 22:06:00 +0200
 categories: jekyll update
 author: "Lou Fedora"
