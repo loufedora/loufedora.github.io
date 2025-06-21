@@ -22,9 +22,11 @@ What a mess. I wanted to move my Steam files to my new SSD external drive using 
 - Open the Disks GUI, select my wanted disk and click the little gear below the storage bar : ![mount-options](/assets/images/mount-options.png)
 {: style="text-align: justify;"}
 <br/>
-- On the top options, I unchecked "Default options" so I can have access to the naming options, and clicked "Automatically mount drive" : ![automount](/assets/images/automount.png)
+- On the top options, I unchecked "Default options" so I can have access to the naming options, and clicked "Automatically mount drive" : 
+![automount](/assets/images/automount.png)
 
-- Change the name of my drive, but more importantly, custom my drive mount point (put what you want after mnt/), and select the ID name below the way it's written in fstab : ![mount-names](/assets/images/mount-names.png)
+- Change the name of my drive, but more importantly, custom my drive mount point (put what you want after mnt/), and select the ID name below the way it's written in fstab : 
+![mount-names](/assets/images/mount-names.png)
 {: style="text-align: justify;"}
 <br/>
 - Of course, saving what I said and input my password so it would also change the fstab entry.
