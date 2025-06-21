@@ -14,8 +14,9 @@ Ah, I had a nice combo of everything in an install when my dad asked me to insta
 
 A compilation of everything I've seen so far :
 <br/>
-
-- Deactivating Secure boot in BIOS, and then having a doubt about the USB key being able to to do anything because **something else was plugged in the other port**. It seemed going smoother once it could go fully in.*{: style="text-align: justify;"}
+<br/>
+- Deactivating Secure boot in BIOS, and then having a doubt about the USB key being able to to do anything because **something else was plugged in the other port**. It seemed going smoother once it could go fully in.
+{: style="text-align: justify;"}
 <br/>
 
 - All was  so slow... **The whole install took 4 times longer** than when I tried on my test old i5. Granted this time I picked Cinnamon over XFCE... Maybe I shoudln't have lol
