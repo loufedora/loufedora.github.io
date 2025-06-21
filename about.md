@@ -29,7 +29,7 @@ key: page-about
 Hello everyone !
 {: style="text-align: justify;"}
 <br/>
-I'm Lou, a French person who enjoys learning new things. In April 19th, 2025 I got fed up with Windows and started my journey into Linux, choosing first Linux Mint in dual boot with Windows 10, then dual booting Mint and Fedora,and finally Fedora only from May 16th onwards. 
+I'm Lou, a French person who enjoys learning new things. In April 19th, 2025 I got fed up with Windows and started my journey into Linux, choosing first Linux Mint in dual boot with Windows 10, then dual booting Mint and Fedora, and finally Fedora only from May 16th onwards. 
 {: style="text-align: justify;"}
 <br/>
 This little Jekyll blog will reference some difficulties that I overcomed during this journey, in hope it could help anyone also starting with Linux (and/or Fedora).

@@ -10,15 +10,11 @@ permalink: /automount-death-stranding
 
 What a mess. I wanted to move my Steam files to my new SSD external drive using the options available into the Steam app and cut/paste my Heroic prefixes, but nothing worked. I had to redo it from zero. Since I was recommended to make my drive mounted automatically to have a properly recognised name by Steam (so different that run/media etc), it was the opportunity to do it.There's [this guide](https://smarttech101.com/how-to-mount-disks-and-create-fstab-entries-in-linux) that was recommanded to me but brwosing further, I saw that Ubuntu users had a GUI to do that. I took my bet that Fedora too as I saw aa "Disks" GUI in the available apps. And I was happy to see that it worked like this and in the end updated the fstab entries just like in the guide, so I preferred doing it like that. Archiving the manual technique in here in case I need it in a non GUI situation one day, though.
 {: style="text-align: justify;"}
-
 <br/>
-
 <br/>
-
 **<u>So here is what I've done : </u>**
-
 <br/>
-
+<br/>
 - Open the Disks GUI, select my wanted disk and click the little gear below the storage bar : ![mount-options](/assets/images/mount-options.png)
 {: style="text-align: justify;"}
 <br/>
