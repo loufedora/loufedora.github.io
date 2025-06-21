@@ -26,7 +26,7 @@ A compilation of everything I've seen so far :
 - **The mirrors by default for Mint are awful**. More than that, they freeze in place so at the part of the install in which it needs to install extra packages, it loads in the void. Thankfully some part is skippable, but I feared that it coul've impacted the quality of the final install... Fortunately, it didn't. 
 {: style="text-align: justify;"}
   
-When I could reach the final install on the laptop, I put some French mirrors and it updated in no time.Those are definitely very important. If someday my Fedora install has some  issues in regards to downloading packages, I'll definitaly **check up if my mirror list is correctly set up**.
+When I could reach the final install on the laptop, I put some French mirrors and it updated in no time. Those are definitely very important. If someday my Fedora install has some issues in regards to downloading packages, I'll definitaly **check up if my mirror list is correctly set up**.
 {: style="text-align: justify;"}
  <br/>
 
