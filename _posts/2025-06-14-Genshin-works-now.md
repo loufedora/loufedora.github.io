@@ -12,13 +12,10 @@ Everyone talks about Bottles, I finally gave it a try because my dad wanted to u
 {: style="text-align: justify;"}
 <br/>
 
-Little did I know that compared to Bottles, setting up a game through Heroic Launcher is a massively different process... I could do it a bit but it broke my install anytime I rebooted my laptop ! Aka, the files were downloaded, but Heroic/Proton failed to recognise them correctly. After reinstalling 4 times and getting the same results, I checked the Flathub page of Heroic Launcher and sent a desperate message into their Discord that was indicated there. Fortunately, a Chilian user named F4ngDragon answered me and was patient enough to guide me step by step through it, because it was wayyyy different than I thought. 
+Little did I know that compared to Bottles, setting up a game through Heroic Launcher is a massively different process... I could do it a bit but it broke my install anytime I rebooted my laptop ! Aka, the files were downloaded, but Heroic/Proton failed to recognise them correctly. After reinstalling 4 times and getting the same results, I checked the Flathub page of Heroic Launcher and sent a desperate message into their Discord that was indicated there. Fortunately, a Chilean user named F4ngDragon answered me and was patient enough to guide me step by step through it, because it was wayyyy different than I thought. 
 {: style="text-align: justify;"}
-
 <br/>
-
 <br/>
-
 **<u>Here is what we did to make it work (in chronological order) : </u>**
 
 <br/>
