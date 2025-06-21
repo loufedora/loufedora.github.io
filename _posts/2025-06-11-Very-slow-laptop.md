@@ -34,5 +34,5 @@ When I could reach the final install on the laptop, I put some French mirrors an
 {: style="text-align: justify;"}
 <br/>
   
-So yeah. **Never assume that an install resembles another**, check up if the device handles your distro (fortunately it still does, it works fine). Use lightweight distros if necessary and... <b/>Be patient and have good mirrors haha</b>
+So yeah. **Never assume that an install resembles another**, check up if the device handles your distro (fortunately it still does, it works fine). Use lightweight distros if necessary and... **Be patient and have good mirrors haha**
 {: style="text-align: justify;"}
