@@ -15,7 +15,7 @@ What a mess. I wanted to move my Steam files to my new SSD external drive using 
 
 <br/>
 
-**<u>HSo here is what I've done : </u>**
+**<u>So here is what I've done : </u>**
 
 <br/>
 
