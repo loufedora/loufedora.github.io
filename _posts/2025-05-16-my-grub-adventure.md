@@ -12,7 +12,7 @@ At some point when I still had windows, I discovered GParted and tried to use it
 But I think I definitely stepped up my VM game too high for a beginner. I may just try simple settings through Gnome Boxes later.
 {: style="text-align: justify;"}
 <br/>
-When I partitioned, I accidentally unmounted my Mint partition... I was definitely surprised and quite fed up to boot only on Windows while I definitely preferred Windows already. So I went to UEFI settings through the Windows settings panel to boot my Mint USB to remount it back.. And I was so fed up that I chose to erase Windows totally. I didn't yet because I felt I needed it somehow. [This video helped me to de it without compromising my computer boot.](https://youtu.be/QHRrFwEpzPU?si=V6wLisTd1gOGQsRe)
+When I partitioned, I accidentally unmounted my Mint partition... I was definitely surprised and quite fed up to boot only on Windows while I definitely preferred logging on Mint already. So I went to UEFI settings through the Windows settings panel to boot my Mint USB to remount it back.. And I was so fed up that I chose to erase Windows totally. I didn't yet because I felt I needed it somehow. [This video helped me to de it without compromising my computer boot.](https://youtu.be/QHRrFwEpzPU?si=V6wLisTd1gOGQsRe)
 {: style="text-align: justify;"}
 <br/>
 And then for the GRUB update to remove boot manager, the same content creator showed [a way that worked for me (going to EFI file and erasing Windows file).](https://youtu.be/VCboZdiztNc?si=DRRZqb9Prfv9HPHG)
