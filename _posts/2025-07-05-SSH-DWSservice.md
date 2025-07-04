@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Setting up remote services : SSH and DWService"
-date:   2025-07-105 13:06:00 +0200
+date:   2025-07-05 00:06:00 +0200
 categories: jekyll update
 author: "Lou Fedora"
 permalink: /ssh-dwservice-remote-setup
