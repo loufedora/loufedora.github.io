@@ -18,7 +18,7 @@ I'm thinking about getting a Raspberry Pi and setting my own instance of Nextclo
 {: style="text-align: justify;"}
 <br/>
 - What I did then, is battling with trying to set up a VNC server and getting stuck for around two days because `systemctl` told me that the daemon was dead. After trying different sources, it just happens that there are sharing options into the Gnome settings (in Share, and also in System, Remote Desktop) that set up at least a RDP connection out of the box. It also seems to be Wayland compatible since apparently, one Wayland compositor actually works with RDP. Someone in the Fedora forum also advised me to use FreeRDP, since it's open source and supposedly works well.
-<br/>
+{: style="text-align: justify;"}
 <br/>
 - BUT when I installed FreeRDP, I was quite overwhelmed by the fact that even the Flatpak was a full CLI interface with a plethora of options that I don't know about, since all of this networking/desktop sharing things are very new to me. So I uninstalled it and browsed the internet in hope to find something similar with a bit more GUI... AND I FOUND IT ! It's on [dwservice.net](https://www.dwservice.net/fr/home.html) and it works very well. You download the .sh, run it as executable thanks to `sudo chmod +x` and then `./(.sh file)` and you can choose either to run it as executable only (works without install) or to install the agent and then link the agent to your account on the site. It's not complicated to do at all, the video tutorials are on the site's main page so it's a really easy setup, and the software is free, open-source and made in Europe ! I'm very glad I found it.
 {: style="text-align: justify;"}
@@ -27,6 +27,7 @@ I'm thinking about getting a Raspberry Pi and setting my own instance of Nextclo
 {: style="text-align: justify;"}
 <br/>
 - So for the firewall, [this article](https://www.tecmint.com/restrict-ssh-access-to-local-network/) really is way sufficient to reach the goal of securing the connection and allowing only the addresses you wish to access your computer through SSH. Just, put the entire address (with the /24) and don't forget the `to any port 22` in the end so that it specifies it's for SSH. I did forget those and of course, the first time, it didn't work. With inputting them correctly, it worked for sure on the Mint Firewall UFW, so it's no reason it wouldn't work on Fedora Firewalld as well (just that I didn't test that one yet).
+{: style="text-align: justify;"}
 <br/>
 <br/>
 It feels very good to have found easy to use yet powerful tools, I really appreciate to learn stuff and make things work. Those remote tools in peculiar are so badass, I feel happy I could make them work too. Conclusion : usually, something complicated can be paired with something simpler. It can take slightly more to search, but eventually it can exist. At least, on that case, it did for me :)
