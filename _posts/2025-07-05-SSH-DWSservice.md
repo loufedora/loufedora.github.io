@@ -29,6 +29,5 @@ I'm thinking about getting a Raspberry Pi and setting my own instance of Nextclo
 - So for the firewall, [this article](https://www.tecmint.com/restrict-ssh-access-to-local-network/) really is way sufficient to reach the goal of securing the connection and allowing only the addresses you wish to access your computer through SSH. Just, put the entire address (with the /24) and don't forget the `to any port 22` in the end so that it specifies it's for SSH. I did forget those and of course, the first time, it didn't work. With inputting them correctly, it worked for sure on the Mint Firewall UFW, so it's no reason it wouldn't work on Fedora Firewalld as well (just that I didn't test that one yet).
 {: style="text-align: justify;"}
 <br/>
-<br/>
 It feels very good to have found easy to use yet powerful tools, I really appreciate to learn stuff and make things work. Those remote tools in peculiar are so badass, I feel happy I could make them work too. Conclusion : usually, something complicated can be paired with something simpler. It can take slightly more to search, but eventually it can exist. At least, on that case, it did for me :)
 {: style="text-align: justify;"}
