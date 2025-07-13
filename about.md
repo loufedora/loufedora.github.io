@@ -37,3 +37,5 @@ This little Jekyll blog will reference some difficulties that I overcomed during
 <br/>
 Have fun reading :)
 
+#Ligne en plus pour checker git update
+
