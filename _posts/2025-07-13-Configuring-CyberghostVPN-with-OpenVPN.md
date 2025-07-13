@@ -20,10 +20,12 @@ Wow. Using OpenVPN files generated through CyberghostVPN website GUI was a ride.
 <br/>
 - Choose **"OpenVPN" as protocol**, then your country, server, name your device and save the configuration. It'll generate you a username, a password, and a button to download your configuration files. For later, this will be saved in the "Manage Devices" section of the Download Hub if you need it again.
 <br/>
+<br/>
 ![router-manage](/assets/images/router-manage.png)
 {: style="text-align: justify;"}
 <br/>
 - Go to your created Router and **download the configuration files.** It'll be in a .zip file. Keep the tab opened, it enables you to copy/paste the ID and password that will be asked by Network Manager. Remember now that no matter what you do or how many countries you'll be installing, it will be here to grasp the ID/Password, DO NOT use the credentials you use to log into Cyberghost through web or apps. **In that setup, you need the OpenVPN credentials only, so the ones generated along with the config files.**
+<br/>
 <br/>
 ![router-config](/assets/images/router-config.png)
 {: style="text-align: justify;"}
@@ -41,6 +43,7 @@ Wow. Using OpenVPN files generated through CyberghostVPN website GUI was a ride.
 {: style="text-align: justify;"}
 <br/>
 - Open the **Network Manager GUI** through the Settings of your device, press the `+` button on the VPN section, then `Import from a file` in the bottom and select your `.ovpn` file that is in the `.cert` directory :
+<br/>
 <br/>
 ![netmanager-options](/assets/images/netmanager-options.png)
 {: style="text-align: justify;"}
