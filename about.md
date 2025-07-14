@@ -36,5 +36,3 @@ This little Jekyll blog will reference some difficulties that I overcomed during
 {: style="text-align: justify;"}
 <br/>
 Have fun reading :)
-
-test gitpull vm debian
